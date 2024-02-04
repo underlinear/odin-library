@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --text: #ebfede;
+    --background: #0d1b01;
+    --primary: #adf970;
+    --secondary: #069828;
+    --accent: #31f793;
+
+}
